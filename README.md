@@ -34,6 +34,7 @@ Sanmitra Nagaraj</h1>
 
 </p>
 
+<br/>
 <p align="center">
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=s1ny1998&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" /></a>
 </p>
