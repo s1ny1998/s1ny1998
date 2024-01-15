@@ -31,10 +31,8 @@ Sanmitra Nagaraj</h1>
 			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/sunnnymitra/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://www.reddit.com/user/s1ny-/">
-					<img src="https://img.icons8.com/plasticine/0.5x/reddit.png" ></a>
                     <a style="margin-left: 5px;" target="_blank" href="https://steamcommunity.com/profiles/76561198152370866">
-					<img src="https://img.icons8.com/plasticine/0.5x/steam.png" ></a>
+					<img src="https://img.icons8.com/clouds/50/steam.png" ></a>
       </div>
 
 </p>
