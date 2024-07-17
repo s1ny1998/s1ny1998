@@ -36,7 +36,7 @@ Sanmitra Nagaraj</h1>
 
 <br/>
 <p align="center">
-	<a href="https://github.com/s1ny1998"><img src="https://streak-stats.demolab.com?user=&theme=gruvbox-duo" alt="GitHub Streak" /></a>
+	<a href="https://github.com/s1ny1998"><img src="https://streak-stats.demolab.com?user=s1ny1998&theme=gruvbox-duo" alt="GitHub Streak" /></a>
 </p>
 
 ---
