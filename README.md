@@ -8,6 +8,8 @@ Sanmitra Nagaraj</h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+- 💻 View my page - <a href="https://sanmitra.dev" target="blank">sanmitra.dev</a> 
+
 - 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">Tercept Inc</a>
 
 - 🌱 I’m currently Working on tools for ad-tech analytics.
